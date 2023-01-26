@@ -2,10 +2,10 @@ Recreating the apple website using HTML and CSS.
 
 # Tasks
 
-- [ ] Remove the unicef header
-- [ ] Add the second navbar with the different macbook models
-- [ ] Add the "New" label to the homepage
-- [ ] Add the macbook title, description, price etc
-- [ ] Position the image correctly
-- [ ] Add the second macbook div (the black one)
-- [ ] Add the "Which macbook is right for you?" section
+- [x] Remove the unicef header
+- [x] Add the second navbar with the different macbook models
+- [x] Add the "New" label to the homepage
+- [x] Add the macbook title, description, price etc
+- [x] Position the image correctly
+- [x] Add the second macbook div (the black one)
+- [x] Add the "Which macbook is right for you?" section
